@@ -1,8 +1,8 @@
 
 import streamlit as st
-from main import read_texts, load_job_description, match_resumes
+from match import read_texts, load_job_description, match_resumes
 
-st.title("🔍 HR Resume Matching Tool")
+st.title("🔍 AI-Powered Resume Screening Tool")
 
 jd = load_job_description()
 resumes = read_texts("resumes")
