@@ -1,0 +1,3 @@
+We are looking for an experienced iOS Developer proficient in Swift, UIKit, and SwiftUI.
+Responsibilities include building new iOS features, collaborating with product managers,
+and integrating with REST APIs. Experience with CoreData, Combine, and Xcode is a plus.
