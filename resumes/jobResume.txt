@@ -1,0 +1,5 @@
+Rajesh Kumar Malla  
+Email: rajeshkm@mail.com  
+Experience: 4 years in iOS development  
+Skills: Swift, SwiftUI, UIKit, Combine, REST APIs, CoreData, Xcode  
+Worked on CRM apps and custom charting libraries.  
